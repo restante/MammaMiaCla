@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingunity.to",
+            "url": "https://streamingunity.cam",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.my",
+            "url": "https://cb01net.download",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -40,15 +40,15 @@
         "DDLStream": {
             "url": "https://ddlstreamitaly.co",
             "cookies": {
-                "ips4_device_key": "e76de2d09214c678fa18e317e1aab74b",
-                "ips4_IPSSessionFront": "a43ab7f014e10d61c58412c436b2018b",
-                "ips4_member_id": "4030150",
-                "ips4_login_key": "5cb83aeddd61ee9dc9d8727726cabc94"
+                "ips4_device_key": "4d593f81e70b49c0dbe21631c43d7c89",
+                "ips4_IPSSessionFront": "6b5fc4a527677121f0b9830167fe1062",
+                "ips4_member_id": "4030426",
+                "ips4_login_key": "735a7725fe58068c32b5b85546290525"
             },
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.art",
+            "url": "https://guardaserietv.blog",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -72,7 +72,7 @@
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.help",
+            "url": "https://skystreaming.stream",
             "enabled": "1"
         },
         "DaddyLiveHD": {
